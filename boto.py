@@ -104,7 +104,8 @@ def launch_ec2_instance(security_group_id, key_name):
 
     # Launch the instance
     instance = ec2.create_instances(
-        ImageId='ami-03fa88b353191ee29',  # Ubuntu 22.04 LTS AMI
+        #ImageId='ami-03fa88b353191ee29',  # Ubuntu 22.04 LTS AMI
+        ImageId='ami-07c5ecd8498c59db5',  # Amazon linux 2023
         MinCount=1,
         MaxCount=1,
         InstanceType='t2.micro',
