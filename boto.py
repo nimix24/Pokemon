@@ -4,7 +4,7 @@ import time
 import os
 
 # Manually specify the AWS credentials file path
-os.environ['AWS_SHARED_CREDENTIALS_FILE'] = r'G:\Nimrod\Appleseeds\Projects\Pokemon API and DynamoDB\AWS details\credentials'
+os.environ['AWS_SHARED_CREDENTIALS_FILE'] = r'G:\Nimrod\Appleseeds\Projects\Pokemon API\AWS details\credentials'
 
 try:
     # Attempt to retrieve your AWS identity to verify credentials
@@ -133,7 +133,7 @@ def launch_ec2_instance(security_group_id, key_name):
 
 def main():
     # Replace with your key pair name
-    key_name = 'pokemon-app-key'
+    key_name = 'vockey'
 
     # Step 1: Get default VPC ID
     try:
