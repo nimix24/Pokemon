@@ -1,0 +1,116 @@
+{
+    "gardevoir": {
+        "name": "gardevoir",
+        "height": 16,
+        "weight": 484,
+        "base_experience": 259
+    },
+    "sealeo": {
+        "name": "sealeo",
+        "height": 11,
+        "weight": 876,
+        "base_experience": 144
+    },
+    "tinkatuff": {
+        "name": "tinkatuff",
+        "height": 7,
+        "weight": 591,
+        "base_experience": 133
+    },
+    "venusaur": {
+        "name": "venusaur",
+        "height": 20,
+        "weight": 1000,
+        "base_experience": 263
+    },
+    "zoroark": {
+        "name": "zoroark",
+        "height": 16,
+        "weight": 811,
+        "base_experience": 179
+    },
+    "dewpider": {
+        "name": "dewpider",
+        "height": 3,
+        "weight": 40,
+        "base_experience": 54
+    },
+    "pawmi": {
+        "name": "pawmi",
+        "height": 3,
+        "weight": 25,
+        "base_experience": 48
+    },
+    "flittle": {
+        "name": "flittle",
+        "height": 2,
+        "weight": 15,
+        "base_experience": 51
+    },
+    "aipom": {
+        "name": "aipom",
+        "height": 8,
+        "weight": 115,
+        "base_experience": 72
+    },
+    "mismagius": {
+        "name": "mismagius",
+        "height": 9,
+        "weight": 44,
+        "base_experience": 173
+    },
+    "yamask": {
+        "name": "yamask",
+        "height": 5,
+        "weight": 15,
+        "base_experience": 61
+    },
+    "skuntank": {
+        "name": "skuntank",
+        "height": 10,
+        "weight": 380,
+        "base_experience": 168
+    },
+    "floragato": {
+        "name": "floragato",
+        "height": 9,
+        "weight": 122,
+        "base_experience": 144
+    },
+    "scatterbug": {
+        "name": "scatterbug",
+        "height": 3,
+        "weight": 25,
+        "base_experience": 40
+    },
+    "huntail": {
+        "name": "huntail",
+        "height": 17,
+        "weight": 270,
+        "base_experience": 170
+    },
+    "lumineon": {
+        "name": "lumineon",
+        "height": 12,
+        "weight": 240,
+        "base_experience": 161
+    },
+    "eelektross": {
+        "name": "eelektross",
+        "height": 21,
+        "weight": 805,
+        "base_experience": 232
+    },
+    "ditto": {
+        "name": "ditto",
+        "height": 3,
+        "weight": 40,
+        "base_experience": 101
+    },
+    "lokix": {
+        "name": "lokix",
+        "height": 10,
+        "weight": 175,
+        "base_experience": 158
+    }
+}
